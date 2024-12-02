@@ -1,0 +1,23 @@
+.card-title{
+    background-color: yellowgreen;
+    color:bisque;
+    padding:5%;
+}
+#Enquiry{
+    margin-top: 5%;
+}
+.fafaicon{
+    font-size: 80px;
+    text-align: center;
+}
+.Address{
+    font-size: 20px;
+    text-align: center;
+    color:blue;
+    
+}
+.Fillform{
+    color:blueviolet;
+    text-align: center;
+}
+
