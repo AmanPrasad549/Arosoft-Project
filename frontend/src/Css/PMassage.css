@@ -1,0 +1,28 @@
+.PMassage{
+    font-size: 30px;
+    text-align: justify;
+    font-weight: bolder;
+    border-left: 10px solid greenyellow;
+    padding: 5%;
+    margin:2%;
+    justify-content: center;
+    color:whitesmoke;
+    text-shadow: 1px  2px 3px;
+}
+.bImage{
+    background-image: url('../Picture/FIrstSchool.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0cap;
+    border-top-right-radius: 5%;
+}
+.Reflection{
+    font-size: 35px;
+    justify-content: center;
+    text-align: justify;
+    color:orangered;
+    font-weight: bolder;
+    text-align: center;
+
+}

@@ -1,0 +1,41 @@
+.Senior{
+    border-left:10px solid rgb(197, 66, 15);
+    padding:5%;
+    margin:2%;
+    font-weight: bold;
+    color:blueviolet;
+    text-shadow: 2px 4px 6px ;
+   
+}
+.bimage{
+     
+    width: 100%;
+}
+.Indiatop{
+    font-weight: bold;
+    text-shadow: 2px 4px 6px ;
+    text-align: justify;
+    font-size: 35px;
+    
+}
+.SSchool{
+    color:rgb(226, 183, 43);
+    font-size: 35px;
+
+}
+.Seniorsecondaryschool{
+    text-align: justify;
+    font-size: 25px;
+    font-weight: bolder;
+    color:orangered;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin:2%;
+}
+.P_Senior{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin-top:5%;
+    margin-bottom: 5%; 
+}
