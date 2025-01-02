@@ -1,0 +1,39 @@
+.topcolleges{
+    font-size: 40px;
+    font-weight: bolder;
+    color:orangered;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-align: justify;
+    text-shadow: 0cqmax;
+}
+.AlumniParagraph{
+    font-size: 25px;
+    font-weight: 100;
+    color:rgb(160, 92, 92);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    text-align: justify;
+}
+.btn{
+    padding: 10%;
+    font-size: 35px;
+    background:linear-gradient(to right, orangered,brown);
+    color:white;
+    font-weight: bolder;
+    border:2px solid gray;
+    text-align: center;
+    width:100px;
+    height:50px;
+    border-radius: 1px 3px 4px;
+    box-shadow: 2px 4px 5px;
+    
+}
+.border{
+    border:2px solid red;
+    padding: 5%;
+    background:linear-gradient(to top, gray,whitesmoke);
+    box-shadow: 2px 4px 5px 6px;
+    border-left: 5px solid yellowgreen;
+    
+}

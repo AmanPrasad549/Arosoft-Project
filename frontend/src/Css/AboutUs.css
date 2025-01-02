@@ -1,0 +1,70 @@
+.Aboutus{
+    color:white;
+    border-left: 10px solid yellowgreen;
+    padding: 5%;
+    font-size: 50px;
+    
+}
+.cbse{
+    font-weight: bold;
+    color:royalblue;
+}
+.jps{
+    color:orangered;
+}
+.paragraph{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin: 10%;
+}
+.bgcolor{
+    background: linear-gradient(to right, #007bff, #6c757d);
+    margin-top:2%;
+    margin-bottom: 2%;
+}
+.carousel-innerr{
+    border:5px solid red;
+    padding:10%;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    box-shadow: 1px 2px 3px 4px greenyellow;
+    height: 300px;
+}
+.Principal{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow:1px 2px 3px 4px aquamarine;
+    text-align: center;
+    padding: 3%;
+}
+.Principald{
+    color:orangered;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow:1px 2px 3px 4px aquamarine;
+    text-align: center;
+    
+}
+.princapleWord{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin: 2%;
+}
+.JPS{
+    border:3px solid aquamarine;
+    padding: 3%;
+    border-bottom-left-radius: 10%;
+    border-top-right-radius: 10%;
+    box-shadow: 2px 5px 10px;
+}
+.cImageCrsl{
+    border: 5px solid aquamarine;
+    border-radius: 50%;
+    width:500px;
+    height:500px;
+    text-align: center;
+}
